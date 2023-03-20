@@ -1,0 +1,7 @@
+{
+  "name": "Hello GitHub!",
+  "version": "1.0.0",
+  "description": "A simple 'Hello GitHub!' Node.js application",
+  "main": "index.js",
+  "dependencies": {}
+}
