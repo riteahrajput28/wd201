@@ -7,10 +7,6 @@ const port = argv.port || 3000;
 
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.get('/projects', (req, res) => {
-    res.sendFile(path.join(__dirname, 'views/index.js'));
-  });
-
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, 'views/home.html'));
 });
