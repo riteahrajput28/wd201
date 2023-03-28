@@ -1,0 +1,7 @@
+{
+  "name": "My projects",
+  "version": "1.0.0",
+  "description": "lists of projects",
+  "main": "index.js",
+  "dependencies": {}
+}
