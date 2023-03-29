@@ -1,7 +1,7 @@
 {
-  "name": "my project",
+  "name": "http-server",
   "version": "1.0.0",
-  "description": "My project",
+  "description": "\"My Project\"",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
