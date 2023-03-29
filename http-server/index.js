@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const path = require('path');
-const argv = require('yargs').argv;
+const argv = require('minimist')(process.argv.slice(2));
 
 const port = argv.port || 3000;
 
